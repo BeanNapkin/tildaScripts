@@ -1,4 +1,4 @@
-    .p-btn p-btn-shadow p-btn-block p-primary p-success-btn {
+    .p-btn.p-success-btn {
     background: white !important;
     color: black !important;
     border: 2px solid black !important;
