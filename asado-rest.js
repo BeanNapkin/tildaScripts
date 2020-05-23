@@ -1,4 +1,3 @@
-<script>
     function onContentLoaded(callback) {
         document.addEventListener("DOMContentLoaded", callback);        
     }
@@ -29,4 +28,3 @@
         //     });
     });
     
-</script>
