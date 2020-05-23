@@ -20,11 +20,11 @@
     onContentLoaded(function() {
         console.log('onContentLoaded');
         let iframe = document.querySelector('#rec194408020 .t-width.t-width_100 iframe');
-        // window.activeStoreCategoryObserver = observeChanges(
-        //     document.querySelector('#rec194408020 .t-width.t-width_100'),
-        //     function(mutations) {
-        //         console.log('changes')
-        //         console.log(document.querySelector('iframe'));
-        //     });
+        let cssUrl = "https://beannapkin.github.io/tildaScripts/asado-rest.css";
+        var cssLink = document.createElement("link");
+        cssLink.href = cssUrl; 
+        cssLink.rel = "stylesheet"; 
+        cssLink.type = "text/css"; 
+        iframe.document.head.appendChild(cssLink);
     });
     
