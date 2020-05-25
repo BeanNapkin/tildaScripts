@@ -10,10 +10,12 @@
     }
 
     a{
-        color: black !important;
+        color: white !important;
         font-weight: 700 !important;
         text-decoration: none !important;
     }
 
     
-
+    .oferta{
+        color: white !important;
+    }
