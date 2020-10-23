@@ -19,3 +19,27 @@
     .oferta{
         color: white !important;
     }
+
+body { 
+    background: none;
+    }
+
+.p-row-header { 
+    display: none;
+    }
+
+.oferta { 
+    color: #1e232c !important;
+    }
+
+.oferta a { 
+    color: #1e232c !important;
+}
+
+
+.p-footer { 
+    display: none;
+}
+body.dark-mode .p-box-shadow { 
+    box-shadow: none;
+}
