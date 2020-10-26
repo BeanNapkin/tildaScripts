@@ -56,3 +56,13 @@ body {
 body.dark-mode .p-box-shadow { 
     box-shadow: none;
 }
+
+body { 
+    background: none !important;
+}
+.p-row-header { 
+    display: none;
+}
+.p-footer { 
+    display: none;
+}
