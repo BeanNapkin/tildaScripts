@@ -32,14 +32,14 @@ body {
     color: #1e232c !important;
     } */
 
-.oferta a { 
+/* .oferta a { 
     color: #1e232c !important;
 }
-
-
+ */
 .p-footer { 
     display: none;
 }
+
 body.dark-mode .p-box-shadow { 
     box-shadow: none;
 }
@@ -47,12 +47,14 @@ body.dark-mode .p-box-shadow {
 body { 
     background: none !important;
 }
+
 .p-row-header { 
     display: none;
 }
 .p-footer { 
     display: none;
 }
+
 body.dark-mode .p-box-shadow { 
     box-shadow: none;
 }
@@ -60,9 +62,11 @@ body.dark-mode .p-box-shadow {
 body { 
     background: none !important;
 }
+
 .p-row-header { 
     display: none;
 }
+
 .p-footer { 
     display: none;
 }
