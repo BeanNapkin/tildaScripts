@@ -28,19 +28,13 @@ body {
     display: none;
     }
 
-/* .oferta { 
-    color: #1e232c !important;
-    } */
 
-/* .oferta a { 
-    color: #1e232c !important;
-}
- */
 .p-footer { 
     display: none;
 }
 
 body.dark-mode .p-box-shadow { 
+    background: #ffffff !important;
     box-shadow: none;
 }
 
@@ -71,4 +65,14 @@ body {
     display: none;
 }
 
+.label{
+    color: black !important;
+}
 
+.sex_box{
+color: black !important;
+}
+
+.p-input-top div span{
+    color: black !important;
+}
