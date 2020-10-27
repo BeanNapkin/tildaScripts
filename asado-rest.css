@@ -88,3 +88,8 @@ color: black !important;
 .vti__input{
 color: black !important;
 }
+
+.vti__dropdown-list.below {
+    background: white !important;
+    color: black !important;
+} 
