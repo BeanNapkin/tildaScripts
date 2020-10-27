@@ -17,7 +17,7 @@
 
     
     .oferta{
-        color: white !important;
+        color: #ffffff !important;
     }
 
 body { 
@@ -28,9 +28,9 @@ body {
     display: none;
     }
 
-.oferta { 
+/* .oferta { 
     color: #1e232c !important;
-    }
+    } */
 
 .oferta a { 
     color: #1e232c !important;
@@ -66,3 +66,5 @@ body {
 .p-footer { 
     display: none;
 }
+
+
