@@ -33,9 +33,13 @@ body {
     display: none;
 }
 
-body.dark-mode .p-box-shadow { 
+.p-box-shadow { 
     background: #ffffff !important;
     box-shadow: none;
+}
+
+body.dark-mode {
+    color: black !important;
 }
 
 body { 
@@ -49,9 +53,7 @@ body {
     display: none;
 }
 
-body.dark-mode .p-box-shadow { 
-    box-shadow: none;
-}
+
 
 body { 
     background: none !important;
